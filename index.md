@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 不忘初心继续前进
 
 You can use the [editor on GitHub](https://github.com/panda0539/binggui.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
